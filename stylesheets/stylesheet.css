@@ -397,10 +397,7 @@ Full-Width Styles
   font-size: 11em;
   text-align: center;
   text-shadow: 8px 8px #4A0B23, 8px -8px #4A0B23, -8px -8px #4A0B23, -8px 8px #4A0B23;
-  z-index: 20;
-  padding-top: 169px;
-  /* -webkit-text-stroke-width: 6px; */  
-  /* -webkit-text-stroke-color: #4A0B23; */
+  padding-top: 183px;  
 }
 
 /*******************************************************************************
